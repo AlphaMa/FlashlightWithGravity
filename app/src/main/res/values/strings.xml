@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyApp10</string>
+    <string name="main_info">摇一摇打开手电筒</string>
+    <string name="main_real_info">重力感应实时状态</string>
+    <string name="main_enable_info">重力感应启用状态</string>
+</resources>
